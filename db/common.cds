@@ -1,10 +1,10 @@
 // ─────────────────────────────────────────────────────────────────────────────
 // common.cds — Reusable code lists and type definitions
-// Namespace: anubhav.claude
+// Namespace: sarath.claude
 // Single source of truth for shared artifacts used across the data model.
 // ─────────────────────────────────────────────────────────────────────────────
 
-namespace anubhav.claude;
+namespace sarath.claude;
 
 using { sap } from '@sap/cds/common';
 

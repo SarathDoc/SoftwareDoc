@@ -1,7 +1,7 @@
-namespace anubhav.claude;
+namespace sarath.claude;
 
 using { cuid, Currency, managed }                                            from '@sap/cds/common';
-using { anubhav.claude.AddressType, anubhav.claude.Status, anubhav.claude.Roles } from './common';
+using { sarath.claude.AddressType, sarath.claude.Status, sarath.claude.Roles } from './common';
 
 // ─── Main Entities ────────────────────────────────────────────────────────────
 
